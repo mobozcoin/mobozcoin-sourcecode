@@ -1,2 +1,5 @@
-rpc port: 10298
-net port: 10294
+Coin Name: Mobozcoin, 
+Coin Abbreviation: MBC, 
+Coin Type: Pure PoW, 
+Hashing Algorithm: SHA256 
+Difficulty Retargetting Algorithm: Dark Gravity Wave Time
